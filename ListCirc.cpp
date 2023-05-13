@@ -7,7 +7,7 @@
 #include <iostream>
 
 // Construtor vazio
-// inicia o cabeça da lista como null
+// inicia o cabeça da lista como vazio
 LDL::LDL() {
   this->cabeca = nullptr;
   this->qtde = 0;
